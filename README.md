@@ -1,5 +1,6 @@
-# EXPERIMENT-1
-# DATE:
+# EXPERIMENT-1 
+# SIMULATION AND IMPLEMENTATION OF LOGIC GATES, ADDERS & SUBTRACTOR.
+# DATE: 
 # AIM:
 To simulate and synthesis Logic Gates,Adders and Subtractor using vivado 2023.2.
 
